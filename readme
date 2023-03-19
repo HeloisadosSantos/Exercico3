@@ -6,3 +6,17 @@ o número de maçãs compradas, calcule e escreva o valor total dacompra.
 lidos valores iguais) e escrevê-los em ordem crescente.
 ---------------------------------------------------------------------------------------------------------------------------------------
 1- Escreva um programa em Java que recebe um inteiro e diga se é par ou ímpar.
+
+2- Desafio 1: Crie um programa que recebe uma nota ( pela classe Scanner) e checa se você passou direto, ficou de recuperação ou foi reprovado na matéria.
+A regra é a seguinte:
+Nota 7 ou mais: passou direto
+Entre 5 e 7: têm direito de fazer uma prova de recuperação
+Abaixo de 5: reprovado direto
+
+3- Faça um programa que verifique (usando if e else) se uma letra digitada é vogal ou consoante.
+
+4- Uma loja fornece 10% de desconto para funcionários e 5% de desconto para clientes vips. Faça um programa que calcule 
+o valor total a ser pago por uma pessoa. 
+
+O programa deverá ler o valor total da compra efetuada e um código que identifique se o comprador é um cliente comum 
+(1), funcionário (2) ou vip (3).
