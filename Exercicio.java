@@ -70,7 +70,7 @@ public class Exercicio {
       String Cliente = sc.nextLine();
       String Desconto = "";
       switch (Cliente) {
-         case "Vip": Desconto = "-5%";
+         case "Vip": Desconto = "-0.5%";
             break;
          case "Funcionario": Desconto = "1";   
             break;
